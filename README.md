@@ -179,6 +179,8 @@
 
 - [Machine Learning for Data Analysis](https://www.coursera.org/learn/machine-learning-data-analysis), Coursera上Wesleyan大学的Data Analysis and Interpretation专项课程第四课。
 
+- [Machine Learning Roadmap](https://www.scaler.com/blog/machine-learning-roadmap/), 关键步骤包括掌握机器学习的有效路线图
+
 - Max Planck Institute for Intelligent Systems Tübingen[德国马普所智能系统研究所2013的机器学习暑期学校视频](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E),仔细翻这个频道还可以找到2015的暑期学校视频
 
 - 知乎Live：[我们一起开始机器学习吧](https://www.zhihu.com/lives/792423196996546560)，[机器学习入门之特征工程](https://www.zhihu.com/lives/819543866939174912)
